@@ -1,0 +1,55 @@
+Comandos do Git
+
+Git Status - mostra os status, se há ou não um commit a ser feito
+
+Git clone - clona um repositorio do git
+
+Git Push - empurra o conteúdo para o GitHub (Git Push origin main)
+
+Git Pull - puxa o conteúdo do GitHub para o meu pc ( Git Pull origin master)
+
+Git Remote - vai listar as listas de repositórios remotos que vc tem cadastrado
+
+Git Remote add Origin - (dai vc cola o link do repositorio)
+
+clear - limpa
+
+cd - entra na pasta
+
+cd .. - sai da pasta
+
+mkdir - cria nova pasta
+
+ls - lista os arquivos
+
+Git init - inicializa a nova pasta
+
+Git config --list   - traz a lista de todas as configurações
+
+Git config --global --unset user.name - apaga o nome do usuario 
+
+Git config --global --unset user.email  - apaga o email estabelecido 
+
+Git config --global user.name "Novo-Nome" - define um nome
+
+Git config --global user.email "Novo-email" - define um email
+
+mv - move arquivo ( mv nome-do-arquivo ./novo-local/)
+
+Git Add / git add * - adiciona novo arquivo para stage
+
+Git commit - faz o commit (git commit -m "mensagem-do-commit)
+
+ls -a  - mostra arquivos ocultos
+
+del - deleta arquivos
+
+rmdir - deleta a pasta e os arquivos dela
+
+A tecla tab autocompleta o nome do arquivo
+
+
+
+
+
+
